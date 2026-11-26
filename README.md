@@ -98,6 +98,7 @@ flowchart TD
 | --- | --- |
 | [`questionnaire.md`](questionnaire.md) | The full questionnaire: Parts A–F, about 60 questions, each with "why it matters" |
 | [`templates/questionnaire-template.csv`](templates/questionnaire-template.csv) | The same questions as a blank workshop sheet; open it in Excel or Google Sheets |
+| [`slides/`](slides/) | A 14-slide summary deck (PDF) with preview images and an outline |
 
 ### Questionnaire structure
 
